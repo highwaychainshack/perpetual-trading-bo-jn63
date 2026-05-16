@@ -1,4 +1,4 @@
-# 
+# advanced perpetual trading bot Tool | arbitrage-scanning + risk-management is the best perpetual trading bot, featuring arbitrage-scanning and risk-management. Smart, fast, and
 
 
 
